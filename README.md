@@ -1,3 +1,5 @@
+Observação: quando você ver as imagens, o nome de user está adriano, pois esse notebook era do antigo dono e eu não consigo mudar.
+
 # ⚓ Exercício: Sistema de Gestão do Programa de Desenvolvimento de Submarinos (PROSUB)
 
 ## 📝 Contexto Histórico e Geopolítico
